@@ -39,8 +39,8 @@
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/acir-junior">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mateusaraujo996@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amjr13@icloud.com">
+    <a href="mailto:amjr13@icloud.com">
+        <img src="https://img.shields.io/badge/icloud-D14836?&style=for-the-badge&logo=apple&logoColor=white&link=mailto:amjr13@icloud.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/acir-miranda-junior209225108">
