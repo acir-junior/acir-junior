@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 👨‍💻 Desenvolvedor Web Jr na **Urgtec**.
-- 👨‍🎓 Estudando React.js.
+- 👨‍🎓 Estudando Laravel e boas praticas PHP e Javascript.
 - 🎯 Interesse: JavaScript, PHP, Laravel, React.js, Wordpress, HTML, CSS e Sass.
 
 ## Skills :nerd_face:
