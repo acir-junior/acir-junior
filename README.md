@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 👨‍💻 Desenvolvedor Web Jr na **Urgtec**.
+- 👨‍💻 Desenvolvedor Junior na **goFlux**.
 - 👨‍🎓 Estudando Laravel e boas praticas PHP e Javascript.
 - 🎯 Interesse: JavaScript, PHP, Laravel, React.js, Wordpress, HTML, CSS e Sass.
 
